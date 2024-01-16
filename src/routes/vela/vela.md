@@ -30,8 +30,12 @@ Enter VELA! We've reimagined weather reports, crafting them to be easily accessi
 I began to define a problem statement by conducting a competitive analysis. This gave me insight into how my competitors solve problems, as well as where potential holes in the market might be. I used the SWOT analysis methodology to identify the strengths and weaknesses of competitors.
 
 ### Competitor Analysis
-![Competitor Analysis Images](/images/Vela-compressed/Windy.app.png)
-![SWOT](/images/Vela-compressed/SWOT-Analysis.png)
+<div class="grid grid-cols-2 gap-2 items-center">
+
+<img src="/images/Vela-compressed/Windy.app.png" alt="Windy.app example"/>
+<img src="/images/Vela-compressed/SWOT-Analysis.png" alt="SWOT analysis"/> 
+
+</div>
 
 #### Key Takeaways:
 - Competitor's offerings are often hidden behind a paywall
@@ -57,9 +61,13 @@ After conducting user interviews, I was able to categorize data points into seve
 - When users are confused, they begin to doubt the accuracy of weather reports.
 
 This tells me that VELA users will want a reliable source of information which is presented in a simple, easy-to-understand way.
-![AffinityMap1](/images/Vela-compressed/AMAP-Difficulty-Understanding-Information.png)
-![AffinityMap2](/images/Vela-compressed/AMAP-Opinions-on-App-Comparison.png)
-![AffinityMap3](/images/Vela-compressed/AMAP-Unfulfilled-Desires.png)
+
+<div class="grid grid-cols-3 gap-2 items-center">
+<img src="/images/Vela-compressed/AMAP-Difficulty-Understanding-Information.png" alt="difficulty understanding information" />
+<img src="/images/Vela-compressed/AMAP-Unfulfilled-Desires.png" alt="unfulfilled desires" />
+<img src="/images/Vela-compressed/AMAP-Opinions-on-App-Comparison.png" alt="opinions on app comparison" />
+
+</div>
 
 ## Define
 
@@ -184,7 +192,7 @@ Following design principles and Gestalt psychology, I developed a design system 
 ![Design System Image7](/images/Vela-compressed/Vela-Language.png)
 
 ### Clickable Prototype
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="800" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0sVPDLApAf9JhjarOJMhqv%2FVELA-3.9-HF-Prototype%3Fpage-id%3D1046%253A5772%26type%3Ddesign%26node-id%3D1046-5774%26viewport%3D628%252C135%252C0.77%26t%3DhQNUQmtF14xPpoLq-1%26scaling%3Dscale-down%26starting-point-node-id%3D1046%253A5774%26mode%3Ddesign" allowfullscreen sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms"></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" height="800" src="https://www.figma.com/embed?embed_host=share&amp;url=https%3A%2F%2Fwww.figma.com%2Fproto%2F0sVPDLApAf9JhjarOJMhqv%2FVELA-3.9-HF-Prototype%3Fpage-id%3D1046%253A5772%26type%3Ddesign%26node-id%3D1046-5774%26viewport%3D628%252C135%252C0.77%26t%3DhQNUQmtF14xPpoLq-1%26scaling%3Dscale-down%26starting-point-node-id%3D1046%253A5774%26mode%3Ddesign" allowfullscreen sandbox="allow-same-origin allow-scripts allow-pointer-lock allow-forms"></iframe>
 
 ### Challenges & What I Learned
 Gaining a deep understanding of the wants and needs of your users is difficult, and requires a level of empathy that can only be acquired through rigorous, continued testing, and an ability to see from someone else's perspective.
