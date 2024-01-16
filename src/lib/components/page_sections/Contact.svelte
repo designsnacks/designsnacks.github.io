@@ -52,7 +52,7 @@
 					<Button href={buttonHref}>{buttonLabel}</Button>
 				{/if}
 				{#if linkButtonHref}
-					<Button variant="neutral-link" href={linkButtonHref}>{linkButtonLabel}</Button>
+					<Button variant="neutral_link" href={linkButtonHref } target="_blank" >{linkButtonLabel}</Button>
 				{/if}
 			</div>
 		</div>
