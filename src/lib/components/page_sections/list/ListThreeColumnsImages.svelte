@@ -34,7 +34,7 @@
 							class="aspect-[16/9] w-full rounded-2xl bg-neutral-100 dark:bg-black/20 object-cover sm:aspect-[2/1] lg:aspect-[3/2]"
 						/>
 						<div
-							class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-neutral-900/10 dark:ring-white/10"
+							class="absolute inset-0 rounded-2xl ring-1 ring-inset ring-neutral-900/10 dark:ring-white/10 -z-10 bg-white"
 						></div>
 					</div>
 					<div class="max-w-xl">

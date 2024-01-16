@@ -86,7 +86,7 @@
 				</a>
 			{/if}
 			{#if socials.linkedin}
-				<a href={socials.linkedin} class="text-neutral-400 hover:text-neutral-500">
+				<a href={socials.linkedin} target="_blank" class="text-neutral-400 hover:text-neutral-500">
 					<span class="sr-only">LinkedIn</span>
 
 					<svg

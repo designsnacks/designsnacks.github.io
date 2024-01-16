@@ -23,10 +23,10 @@
 		},
 		{
 			title: 'Voqab - A UX Case Study',
-			description: 'Yes it is a case study',
+			description: 'Vocab is the first design project I created as a part of my Intro to UX Design course with CareerFoundry. Following the steps of the design thinking process, I created a low-fidelity prototype which was tested on potential users to find how the design could be improved.',
 			date: 'March 2023',
 			image: '/images/voqab.png',
-			href: '#'
+			href: '/voqab'
 		}
 	];
 
@@ -67,9 +67,9 @@
 	title={heroTitle}
 	subtitle={heroText}
 	image={heroImage}
-	buttonHref={'#'}
+	buttonHref={'mailto:goinglucas@gmail.com'}
 	buttonLabel={'Contact me'}
-	linkButtonHref={'#'}
+	linkButtonHref={'#projects'}
 	linkButtonLabel={'See projects'}
 ></Hero>
 
@@ -98,13 +98,13 @@
 	id={'contact'}
 	title={'Want to work with me?'}
 	subtitle={'Let’s talk about your project'}
-	buttonHref={'#'}
+	buttonHref={'mailto:goinglucas@gmail.com'}
 	buttonLabel={'Contact me'}
-	linkButtonHref={'#'}
+	linkButtonHref={'/Lucas-Going-Resume.pdf'}
 	linkButtonLabel={'Download resume'}
 ></Contact>
 
 <Footer
-	socials={{ linkedin: '#', mail: '#' }}
+	socials={{ linkedin: 'https://www.linkedin.com/in/goinglucas/', mail: 'mailto:goinglucas@gmail.com' }}
 	copyright={'&copy; 2024 Lucas Going. All rights reserved.'}
 ></Footer>
