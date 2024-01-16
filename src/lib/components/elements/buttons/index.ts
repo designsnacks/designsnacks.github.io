@@ -7,7 +7,7 @@ const buttonVariants = tv({
 	variants: {
 		variant: {
 			default:
-				'shadow-sm bg-accent-600 text-white hover:bg-accent-500 dark:hover:bg-accent-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent-600 dark:focus-visible:outline-accent-500',
+				'shadow-sm bg-accent-900 text-white hover:bg-accent-500 dark:bg-accent-500 dark:hover:bg-accent-400 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent-600 dark:focus-visible:outline-accent-500',
 			secondary:
 				'shadow-sm bg-white dark:bg-white/10 text-neutral-900 dark:text-white ring-1 ring-inset ring-neutral-300 dark:ring-0 hover:bg-neutral-50 dark:hover:bg-white/20',
 			link: 'text-accent-600 hover:text-accent-500 dark:text-accent-500 dark:hover:text-accent-400',
