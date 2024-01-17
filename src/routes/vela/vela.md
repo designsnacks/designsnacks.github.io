@@ -6,7 +6,7 @@
 
 Enter VELA! We've reimagined weather reports, crafting them to be easily accessible and user-friendly. Our platform goes beyond forecasts, offering vibrant community hubs where water-sports enthusiasts converge, share insights, and communicate firsthand experiences. VELA ensures you're armed with real-time, understandable weather updates, fostering safety and eliminating unnecessary stressors for you and your loved ones."
 
-## Project Introduction
+## Project Overview
 
 ### My Role
 - UX Researcher, UX Designer, UX Writer, UI Designer
@@ -144,8 +144,7 @@ With my clickable prototype developed in Figma, I organized five participants to
 #### Results & Analysis
 I used an affinity map to sort out data collected from the usability tests into actionable categories, allowing me to identify trends in the data. Then, using a rainbow spreadsheet in combination with Nielsen's severity scale, I was able to effectively prioritize my prototype's usability issues. This guided me towards which design changes were of the utmost importance, and which could be fixed at a later date.
 
-![Rainbow Spreadsheet](/images/Vela-compressed/Vela-Rainbow-Spreadsheet.png)
-![Affinity Map](/images/Vela-compressed/Vela-AMAP.png)
+<img src="/images/Vela-compressed/Vela-Rainbow-Spreadsheet.png" alt="Rainbow Spreadsheet"/>
 
 Reflecting on this round of usability testing, it is now clear to me that I should have spent less time worrying about the UI of my high-fidelity wireframes. A full-fledged color scheme was not only unnecessary at this stage of the design process, but I would also argue that it was both a waste of time, and distracting when it came to making necessary changes.
 Luckily, there were not any usability issues detected that would have required a complete design overhaul. The major issues were that users were confused by the meaning of certain icons, or were not able to locate the CTA button on certain screens.

@@ -13,7 +13,7 @@ I'm a Berlin-based UX designer with a background in purchasing and customer serv
 - BSc International Business & Management, EU Business School | University of Roehampton, May 2017 - July 2020
 
 ## Projects
-![VELA cover Image]()
+![VELA cover Image](/content/images/Vela-compressed/Vela-Cover-Image.png)
 VELA - A UX Case Study, 2023
-![Voqab Image]()
+![Voqab Image](/content/images/Voqab-compressed/Voqab-Header.png)
 Voqab - A UX Case Study, 2023
